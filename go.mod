@@ -204,14 +204,14 @@ require (
 	go.opentelemetry.io/otel/trace v1.14.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/goleak v1.2.1
-	golang.org/x/crypto v0.9.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 	golang.org/x/net v0.10.0
 	golang.org/x/oauth2 v0.8.0
 	golang.org/x/sync v0.2.0
-	golang.org/x/sys v0.8.0
-	golang.org/x/term v0.8.0
-	golang.org/x/text v0.9.0
+	golang.org/x/sys v0.15.0
+	golang.org/x/term v0.15.0
+	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.7.0
 	google.golang.org/api v0.124.0
 	google.golang.org/grpc v1.55.0
@@ -297,7 +297,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/circonus-labs/circonus-gometrics v2.3.1+incompatible // indirect
 	github.com/circonus-labs/circonusllhist v0.1.3 // indirect
-	github.com/cloudflare/circl v1.1.0 // indirect
+	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/cloudfoundry-community/go-cfclient v0.0.0-20210823134051-721f0e559306 // indirect
 	github.com/cncf/udpa/go v0.0.0-20220112060539-c52dc94e7fbe // indirect
 	github.com/cncf/xds/go v0.0.0-20230310173818-32f1caf87195 // indirect
